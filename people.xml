@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<group>
+    <person id="200" newattr="Hello">
+        <name>Peter Warm</name>
+        <age>20</age>
+        <weight>80</weight>
+        <height>177</height>
+    </person>
+    <person id="2">
+        <name>Mike Davis</name>
+        <age>16</age>
+        <weight>42</weight>
+        <height>180</height>
+    </person>
+    <person id="3">
+        <name>Anna Johnson</name>
+        <age>33</age>
+        <weight>76</weight>
+        <height>160</height>
+    </person>
+    <person id="4">
+        <name>Alex Yoon</name>
+        <age>24</age>
+        <weight>70</weight>
+        <height>174</height>
+    </person>
+    <person id="89">
+        <name>Florian Dedov</name>
+        <age>22</age>
+        <weight>84</weight>
+        <height>189</height>
+    </person>
+</group>
